@@ -13,7 +13,6 @@ import java.time.LocalDateTime;
 import java.util.Scanner;
 
 public class Main {
-    //Git test
     public static void main(String[] args) {
         Flight flight1 = new Flight(1, LocalDateTime.of(2022,03,10,1,15), FlightDestination.SPAIN, 5, new Customer[5]);
         Flight flight2 = new Flight(2, LocalDateTime.of(2022,04,12,2,15), FlightDestination.AUSTRALIA, 6, new Customer[6]);
