@@ -18,18 +18,4 @@ public enum FlightDestination {
         return this.flightNumber;
     }
 }
-//
-//
-//    // do we need this below?? unsure
-//    private final String flightDestination;
-//
-//    FlightDestination(int flightNumber, String flightDestination) {
-//        this.flightNumber = flightNumber;
-//        this.flightDestination = flightDestination;
-//    }
-//
-//    public String getFlightDestination() {
-//        return this.flightDestination;
-//    }
-//
-//    }
+
